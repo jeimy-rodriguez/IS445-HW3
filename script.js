@@ -20,7 +20,7 @@ function getArray(){
 	}
 	//}
 
-	//while (isNaN(step)) {
+	//while (isNaN(step) {
 	var step = prompt("Enter the step:");
 	var stepNum = parseInt(step);
 	if (isNaN(step)==true){
